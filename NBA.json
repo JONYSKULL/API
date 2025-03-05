@@ -1,0 +1,66 @@
+ 
+ {
+ "equiposNBA":[
+    {
+        "equipo": "Los Angeles Lakers",
+        "jugador_estrella": "LeBron James",
+        "temporadas_ganadas": 17,
+        "director_tecnico": "Darvin Ham"
+    },
+    {
+        "equipo": "Golden State Warriors",
+        "jugador_estrella": "Stephen Curry",
+        "temporadas_ganadas": 7,
+        "director_tecnico": "Steve Kerr"
+    },
+    {
+        "equipo": "Chicago Bulls",
+        "jugador_estrella": "DeMar DeRozan",
+        "temporadas_ganadas": 6,
+        "director_tecnico": "Billy Donovan"
+    },
+    {
+        "equipo": "Boston Celtics",
+        "jugador_estrella": "Jayson Tatum",
+        "temporadas_ganadas": 17,
+        "director_tecnico": "Joe Mazzulla"
+    },
+    {
+        "equipo": "Miami Heat",
+        "jugador_estrella": "Jimmy Butler",
+        "temporadas_ganadas": 3,
+        "director_tecnico": "Erik Spoelstra"
+    },
+    {
+        "equipo": "Milwaukee Bucks",
+        "jugador_estrella": "Giannis Antetokounmpo",
+        "temporadas_ganadas": 2,
+        "director_tecnico": "Adrian Griffin"
+    },
+    {
+        "equipo": "Philadelphia 76ers",
+        "jugador_estrella": "Joel Embiid",
+        "temporadas_ganadas": 3,
+        "director_tecnico": "Nick Nurse"
+    },
+    {
+        "equipo": "Brooklyn Nets",
+        "jugador_estrella": "Kevin Durant",
+        "temporadas_ganadas": 0,
+        "director_tecnico": "Jacque Vaughn"
+    },
+    {
+        "equipo": "Dallas Mavericks",
+        "jugador_estrella": "kyrie Irving",
+        "temporadas_ganadas": 1,
+        "director_tecnico": "Jason Kidd"
+    },
+    {
+        "equipo": "Phoenix Suns",
+        "jugador_estrella": "Devin Booker",
+        "temporadas_ganadas": 0,
+        "director_tecnico": "Frank Vogel"
+    }
+]
+
+ }
